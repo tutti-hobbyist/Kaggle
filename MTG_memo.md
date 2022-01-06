@@ -1,7 +1,7 @@
 ## コード管理方法（三瓶）
-- ノートPCからリモートデスクトップでアクセスできるようにする
-- https://github.com/tutti-hobbyist/Kaggle.gitから初期状態をmasterブランチへClone
-- 別ブランチを作成して、開発中のコードを管理
+- ノートPCからリモートデスクトップでアクセスできるようにする（まだやっていない）
+- https://github.com/tutti-hobbyist/Kaggle.gitから初期状態をmasterブランチへClone（ローカルリポジトリにクローン完了）
+- 別ブランチを作成して、開発中のコードを管理（branchの作成完了）
 - 別ブランチでコードが完成したら、materブランチへMergeしてPush
 
 ## 参加するコンペ
