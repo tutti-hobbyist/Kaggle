@@ -3,3 +3,12 @@ venv
 
 # コンペのローカルデータ
 HousePrices/LocalData
+
+
+# DS Storeの無効化
+.DS_Store
+HousePrices/.DS_Store
+HousePrices/Data/.DS_Store
+#展開したzipファイルの更新の無効化
+HousePrices/Data/original/house-prices-advanced-regression-techniques/
+HousePrices/Data/ver1/house-prices-advanced-regression-techniques/
